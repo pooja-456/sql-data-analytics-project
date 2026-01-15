@@ -14,7 +14,7 @@ Tables Used:
 */
 
 -- Retrieves all tables available in the database to understand the overall schema
-select * from INFORMATION_SCHEMA.tables
+select * from information_schema.tables
 
 
 -- Retrieves column details and metadata for the dim_customers table
