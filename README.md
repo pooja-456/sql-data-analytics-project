@@ -1,4 +1,5 @@
-# SQL Data Analytics Project
+# Sales Data Analytics for Business Insights 
+
 
 ## Overview
 This repository contains a collection of SQL scripts used to explore data and perform different types of analysis for reporting and insights.  
